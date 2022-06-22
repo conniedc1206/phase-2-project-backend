@@ -3,11 +3,11 @@
     {
       "id": 1,
       "appName": "What Superhero Are You",
-      "image": "./db/superhero-spa.png",
+      "image": "https://i.imgur.com/1J9p36a.png",
       "developerName": ["Lucas Sweeney", "Yifan Wu", "Connie Park"],
       "developerGithub": ["https://github.com/Sweens0124", "https://github.com/Luxury-Duckling-Services", "https://github.com/conniedc1206"],
       "developerLinkedIn":["https://www.linkedin.com/in/lucas-sweeney-b7840023b/", "https://www.linkedin.com/in/yifan-wu-b26777231/", "https://www.linkedin.com/in/conniepark2/"],
-      "appUrl": "https://github.com/conniedc1206/phase-01-project.git",
+      "appUrl": "https://conniedc1206.github.io/phase-01-project/",
       "about": "With our single-page application 'What Superhero Are You?', users can find their superhero twin simply by answering a series of 5 questions. It fetches data from a public API and display a matching superhero based on the user's inputs.",
       "phase": 1,
       "likes": 0
@@ -27,7 +27,7 @@
     {
       "id": 3,
       "appName": "Project Task Application",
-      "image": "",
+      "image": "https://i.imgur.com/vkVWJWE.png",
       "developerName":["Harrison Sabean", "Terrence Jung", "Benjamin Murphy"],
       "developerGithub": ["https://github.com/Hsabes", "https://github.com/terrencejihoonjung", "https://github.com/BenMurphyFlatiron"],
       "developerLinkedIn":["https://www.linkedin.com/in/harrison-sabean/", "https://www.linkedin.com/in/terrence-jung-490a97207/", "https://www.linkedin.com/in/ben-murphy-kane-8ba399227/"],
@@ -39,7 +39,7 @@
     {
       "id": 4,
       "appName": "Dude Where Is My Beer",
-      "image": "",
+      "image": "https://i.imgur.com/ppsa9FD.jpg",
       "developerName": ["Lior Levy", "Shane Dorsey"],
       "developerGithub": ["https://github.com/levydlior", "https://github.com/scdorsey22"],
       "developerLinkedIn": ["https://www.linkedin.com/in/liordl/", "https://www.linkedin.com/in/shanedorsey/"],
