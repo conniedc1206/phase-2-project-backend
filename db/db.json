@@ -4,11 +4,9 @@
       "id": 1,
       "appName": "What Superhero Are You",
       "image": "./db/superhero-spa.png",
-      "creators": {
-          "name": ["Lucas Sweeney", "Yifan Wu", "Connie Park"],
-          "githubUrl": ["https://github.com/Sweens0124", "https://github.com/Luxury-Duckling-Services", "https://github.com/conniedc1206"],
-          "linkedInUrl": ["https://www.linkedin.com/in/lucas-sweeney-b7840023b/", "https://www.linkedin.com/in/yifan-wu-b26777231/", "https://www.linkedin.com/in/conniepark2/"]
-      },
+      "developerName": ["Lucas Sweeney", "Yifan Wu", "Connie Park"],
+      "developerGithub": ["https://github.com/Sweens0124", "https://github.com/Luxury-Duckling-Services", "https://github.com/conniedc1206"],
+      "developerLinkedIn":["https://www.linkedin.com/in/lucas-sweeney-b7840023b/", "https://www.linkedin.com/in/yifan-wu-b26777231/", "https://www.linkedin.com/in/conniepark2/"],
       "appUrl": "https://github.com/conniedc1206/phase-01-project.git",
       "about": "With our single-page application 'What Superhero Are You?', users can find their superhero twin simply by answering a series of 5 questions. It fetches data from a public API and display a matching superhero based on the user's inputs.",
       "phase": 1,
@@ -18,11 +16,9 @@
       "id": 2,
       "appName": "Dad Joke Saver",
       "image": "",
-      "creators": {
-          "name": ["Samantha Navarro", "Mark Reese"],
-          "githubUrl": ["https://github.com/samantha-navarro", "https://github.com/marksreese"],
-          "linkedInUrl": ["https://www.linkedin.com/in/samantha-navarro8/", "https://www.linkedin.com/in/mark-s-reese/"]
-      },
+      "developerName":["Samantha Navarro", "Mark Reese"],
+      "developerGithub": ["https://github.com/samantha-navarro", "https://github.com/marksreese"],
+      "developerLinkedIn":  ["https://www.linkedin.com/in/samantha-navarro8/", "https://www.linkedin.com/in/mark-s-reese/"],
       "appUrl": "https://github.com/marksreese/dad-joke-saver-project",
       "about": "",
       "phase": 1,
@@ -32,11 +28,9 @@
       "id": 3,
       "appName": "Project Task Application",
       "image": "",
-      "creators": {
-          "name": ["Harrison Sabean", "Terrence Jung", "Benjamin Murphy"],
-          "githubUrl": ["https://github.com/Hsabes", "https://github.com/terrencejihoonjung", "https://github.com/BenMurphyFlatiron"],
-          "linkedInUrl": ["https://www.linkedin.com/in/harrison-sabean/", "https://www.linkedin.com/in/terrence-jung-490a97207/", "https://www.linkedin.com/in/ben-murphy-kane-8ba399227/"]
-      },
+      "developerName":["Harrison Sabean", "Terrence Jung", "Benjamin Murphy"],
+      "developerGithub": ["https://github.com/Hsabes", "https://github.com/terrencejihoonjung", "https://github.com/BenMurphyFlatiron"],
+      "developerLinkedIn":["https://www.linkedin.com/in/harrison-sabean/", "https://www.linkedin.com/in/terrence-jung-490a97207/", "https://www.linkedin.com/in/ben-murphy-kane-8ba399227/"],
       "appUrl": "https://github.com/terrencejihoonjung/phase-1-project-task-application",
       "about": "Be able to use a timer and submit/remove tasks in a to-do list.",
       "phase": 1,
@@ -46,11 +40,9 @@
       "id": 4,
       "appName": "Dude Where Is My Beer",
       "image": "",
-      "creators": {
-          "name": ["Lior Levy", "Shane Dorsey"],
-          "githubUrl": ["https://github.com/levydlior", "https://github.com/scdorsey22"],
-          "linkedInUrl": ["https://www.linkedin.com/in/liordl/", "https://www.linkedin.com/in/shanedorsey/"]
-      },
+      "developerName": ["Lior Levy", "Shane Dorsey"],
+      "developerGithub": ["https://github.com/levydlior", "https://github.com/scdorsey22"],
+      "developerLinkedIn": ["https://www.linkedin.com/in/liordl/", "https://www.linkedin.com/in/shanedorsey/"],
       "appUrl": "https://github.com/levydlior/Dude-Where-Is-My-Beer",
       "about": "A public api of breweries that look for breweries by zip",
       "phase": 1,
@@ -60,11 +52,9 @@
       "id": 5,
       "appName": "Kritical Kitchen",
       "image": "",
-      "creators": {
-          "name": ["Kiran Phillips", "Ikmann Bhullar", "Anna Clausen"],
-          "githubUrl": ["https://github.com/kiranphillips", "https://github.com/Catchthembodies", "https://github.com/AnnaClausen"],
-          "linkedInUrl": ["https://www.linkedin.com/in/kiran-phillips-925055b9/", "https://www.linkedin.com/in/ikmann-bhullar-228210187/", ""]
-      },
+      "developerName":["Kiran Phillips", "Ikmann Bhullar", "Anna Clausen"],
+      "developerGithub": ["https://github.com/kiranphillips", "https://github.com/Catchthembodies", "https://github.com/AnnaClausen"],
+      "developerLinkedIn": ["https://www.linkedin.com/in/kiran-phillips-925055b9/", "https://www.linkedin.com/in/ikmann-bhullar-228210187/", "https://www.linkedin.com/in/anna-clausen-bb63a0128/"],
       "appUrl": "https://github.com/kiranphillips/Kritical-Kitchen",
       "about": "",
       "phase": 1,
@@ -74,11 +64,9 @@
       "id": 6,
       "appName": "Margaritas",
       "image": "",
-      "creators": {
-          "name": ["Eric Quintana", "Thomas Cook"],
-          "githubUrl": ["https://github.com/Equint11", "https://github.com/TLNCook"],
-          "linkedInUrl": ["https://www.linkedin.com/in/erik-quintana-caro/", "https://www.linkedin.com/in/thomas-cook-118414239/"]
-      },
+      "developerName": ["Eric Quintana", "Thomas Cook"],
+      "developerGithub":["https://github.com/Equint11", "https://github.com/TLNCook"],
+      "developerLinkedIn":["https://www.linkedin.com/in/erik-quintana-caro/", "https://www.linkedin.com/in/thomas-cook-118414239/"],
       "appUrl": "https://github.com/TLNCook/project-phase-1-margaritas",
       "about": "",
       "phase": 1,
