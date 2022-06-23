@@ -8,7 +8,7 @@
       "githubRepo": "https://github.com/conniedc1206/phase-01-project",
       "appUrl": "https://conniedc1206.github.io/phase-01-project/",
       "about": "With our single-page application 'What Superhero Are You?', users can find their superhero twin simply by answering a series of 5 questions. It fetches data from a public API and display a matching superhero based on the user's inputs.",
-      "phase": 1,
+      "phase": "1",
       "likes": 0
     },
     {
@@ -19,7 +19,7 @@
       "githubRepo": "https://github.com/marksreese/dad-joke-saver-project",
       "appUrl": "",
       "about": "",
-      "phase": 1,
+      "phase": "1",
       "likes": 0
     },
     {
@@ -30,7 +30,7 @@
       "githubRepo": "https://github.com/terrencejihoonjung/phase-1-project-task-application",
       "appUrl": "",
       "about": "Be able to use a timer and submit/remove tasks in a to-do list.",
-      "phase": 1,
+      "phase": "1",
       "likes": 0
     },
     {
@@ -41,7 +41,7 @@
       "githubRepo": "https://github.com/levydlior/Dude-Where-Is-My-Beer",
       "appUrl": "",
       "about": "A public api of breweries that look for breweries by zip",
-      "phase": 1,
+      "phase": "1",
       "likes": 0
     },
     {
@@ -52,7 +52,7 @@
       "githubRepo": "https://github.com/kiranphillips/Kritical-Kitchen",
       "appUrl": "",
       "about": "",
-      "phase": 1,
+      "phase": "1",
       "likes": 0
     },
     {
@@ -63,7 +63,7 @@
       "githubRepo": "https://github.com/TLNCook/project-phase-1-margaritas",
       "appUrl": "",
       "about": "",
-      "phase": 1,
+      "phase": "1",
       "likes": 0
     }
   ]
