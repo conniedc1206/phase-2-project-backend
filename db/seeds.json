@@ -14,10 +14,10 @@
     {
       "id": 2,
       "appName": "Dad Joke Saver",
-      "image": "",
+      "image": "https://i.imgur.com/xWq2hSv.jpg",
       "developerNames":"Samantha Navarro, Mark Reese",
       "githubRepo": "https://github.com/marksreese/dad-joke-saver-project",
-      "appUrl": "",
+      "appUrl": "https://samantha-navarro.github.io/dad-joke-saver-project/",
       "about": "",
       "phase": "1",
       "likes": 0
@@ -28,7 +28,7 @@
       "image": "https://i.imgur.com/vkVWJWE.png",
       "developerNames":"Harrison Sabean, Terrence Jung, Benjamin Murphy",
       "githubRepo": "https://github.com/terrencejihoonjung/phase-1-project-task-application",
-      "appUrl": "",
+      "appUrl": "https://conniedc1206.github.io/harrison-s-phase-1-project-task-application/",
       "about": "Be able to use a timer and submit/remove tasks in a to-do list.",
       "phase": "1",
       "likes": 0
@@ -39,7 +39,7 @@
       "image": "https://i.imgur.com/ppsa9FD.jpg",
       "developerNames": "Lior Levy, Shane Dorsey",
       "githubRepo": "https://github.com/levydlior/Dude-Where-Is-My-Beer",
-      "appUrl": "",
+      "appUrl": "https://conniedc1206.github.io/Lior-Dude-Where-Is-My-Beer/",
       "about": "A public api of breweries that look for breweries by zip",
       "phase": "1",
       "likes": 0
@@ -47,10 +47,10 @@
     {
       "id": 5,
       "appName": "Kritical Kitchen",
-      "image": "",
+      "image": "https://i.imgur.com/kY6jW48.png",
       "developerNames":"Kiran Phillips, Ikmann Bhullar, Anna Clausen",
       "githubRepo": "https://github.com/kiranphillips/Kritical-Kitchen",
-      "appUrl": "",
+      "appUrl": "https://conniedc1206.github.io/Kiran-Kritical-Kitchen/",
       "about": "",
       "phase": "1",
       "likes": 0
@@ -58,10 +58,10 @@
     {
       "id": 6,
       "appName": "Margaritas",
-      "image": "",
+      "image": "https://i.imgur.com/DukHQgZ.png",
       "developerNames": "Eric Quintana, Thomas Cook",
       "githubRepo": "https://github.com/TLNCook/project-phase-1-margaritas",
-      "appUrl": "",
+      "appUrl": "https://conniedc1206.github.io/Erik-project-phase-1-margaritas/",
       "about": "",
       "phase": "1",
       "likes": 0
